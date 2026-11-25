@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /index.html
+Disallow: /contact.html
+Disallow: /services.html
+Disallow: /mentionslegales.html
+
+Sitemap: https://rosedesventspatrimoine.fr/sitemap.xml
